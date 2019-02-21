@@ -5,6 +5,8 @@
 
 /*  
  * create by Mike Bayandin
+ *
+ * it generates 256-chars array and fill it 0..255 numbers. then shift "0" to the penultimate position.
  * 
  * used compiler: g++
  * 
